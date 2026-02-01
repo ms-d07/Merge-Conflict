@@ -1,6 +1,8 @@
 # Merge-Conflict
 This is our Hackathon repository in which we have trained a ML Model which detects helmets in the pictures clicked by the cameras on the traffic lights
 
+The link for our demo video is : https://youtube.com/shorts/feL4-C_0A3A?si=0xWvLshUAlAXGcOV
+
 GuardianEye-AI
 
 AI-Powered Threat Detection & Surveillance Platform
@@ -66,5 +68,4 @@ Real-time performance (~28 FPS on GPU / optimized CPU)
 Real-Time Alerts: messaging APIs, push integrations.
 
 Frontend: Optional dashboard UI for monitoring, logs, and alerts.
-
 
